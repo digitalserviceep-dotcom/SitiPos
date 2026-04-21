@@ -35,12 +35,12 @@ Aplikasi ini tidak dipublikasikan secara online untuk menjaga keamanan data dan 
 
 Sebelumnya, proses pencatatan transaksi dilakukan secara manual yang berpotensi menyebabkan kesalahan perhitungan dan kehilangan data. Dengan SitiPOS, proses transaksi menjadi lebih cepat, akurat, dan seluruh data tersimpan secara sistematis.
 
-## 📈 Pengembangan Selanjutnya
+##  Pengembangan Selanjutnya
 
 * Integrasi pembayaran digital
 * Export laporan (PDF/Excel)
 * Sistem multi-user (admin & kasir)
 
-## 👨‍💻 Pengembang
+##  Pengembang
 
 **EnP Digital Service**
