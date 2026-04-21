@@ -1,10 +1,10 @@
 # SitiPOS – Web-Based POS System
 
-## 📌 Overview
+##  Overview
 
 SitiPOS adalah aplikasi kasir berbasis web yang dikembangkan oleh **EnP Digital Service** untuk membantu operasional toko retail dalam mengelola transaksi, produk, dan laporan penjualan secara lebih efisien dan terstruktur.
 
-## 🎯 Tujuan Pengembangan
+##  Tujuan Pengembangan
 
 Aplikasi ini dibuat untuk:
 
@@ -12,7 +12,7 @@ Aplikasi ini dibuat untuk:
 * Mempercepat proses transaksi di kasir
 * Menyediakan laporan penjualan yang rapi dan mudah dipahami
 
-## ⚙️ Fitur Utama
+##  Fitur Utama
 
 * Manajemen produk (tambah, edit, hapus)
 * Transaksi penjualan real-time
@@ -20,18 +20,18 @@ Aplikasi ini dibuat untuk:
 * Riwayat transaksi
 * Dashboard laporan penjualan
 
-## 🔒 Catatan Keamanan
+##  Catatan Keamanan
 
 Aplikasi ini tidak dipublikasikan secara online untuk menjaga keamanan data dan privasi pengguna.
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 * JavaScript (60.4%)
 * HTML (19.0%)
 * CSS (14.8%)
 * TypeScript (5.8%)
 
-## 💡 Studi Kasus
+##  Studi Kasus
 
 Sebelumnya, proses pencatatan transaksi dilakukan secara manual yang berpotensi menyebabkan kesalahan perhitungan dan kehilangan data. Dengan SitiPOS, proses transaksi menjadi lebih cepat, akurat, dan seluruh data tersimpan secara sistematis.
 
